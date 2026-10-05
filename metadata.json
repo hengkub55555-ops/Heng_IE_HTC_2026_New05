@@ -1,0 +1,8 @@
+{
+  "name": "Remix Line B IE Manning & Line Balancing Suite",
+  "description": "ระบบวิศวกรรมอุตสาหการ (IE) วิเคราะห์กำลังคน Line B UPH 110 (2,500 เครื่อง/วัน) BM400, ตาราง Standard Manpower, คำนวณ Takt Time, Cycle Time, UPPH, Line Balancing, Yamazumi Chart และจำลอง Kaizen What-If",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
